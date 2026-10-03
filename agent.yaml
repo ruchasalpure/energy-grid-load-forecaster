@@ -1,0 +1,26 @@
+spec_version: "0.1.0"
+name: "energy-grid-load-forecaster"
+version: "1.0.0"
+category: "research"
+author: "Rucha Salpure"
+description: "Forecasts regional electricity transmission grid demand, intermittent renewable curtailment risks, and battery storage arbitrage schedules"
+capabilities:
+  - "probabilistic-demand-forecasting"
+  - "autonomous-decision-making"
+  - "explainable-auditing"
+  - "multi-agent-collaboration"
+skills:
+  - "probabilistic-demand-forecasting"
+tools:
+  - "python_executor"
+  - "audit_logger"
+  - "schema_validator"
+runtime:
+  environment: "python3.11"
+  memory_limit: "4GB"
+  timeout_seconds: 300
+governance:
+  audit_logging: true
+  human_in_the_loop: false
+  maker_checker: true
+  explainability_required: true

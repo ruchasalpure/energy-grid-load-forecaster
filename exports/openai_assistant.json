@@ -1,0 +1,10 @@
+{
+  "name": "energy-grid-load-forecaster",
+  "instructions": "You are Energy Grid Load Forecaster. Provide structured, verified responses.",
+  "tools": [
+    {
+      "type": "code_interpreter"
+    }
+  ],
+  "model": "gpt-4o"
+}
