@@ -1,6 +1,0 @@
-app:
-  name: "energy-grid-load-forecaster"
-  environment: "production"
-  logging:
-    level: "INFO"
-    format: "json"

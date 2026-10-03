@@ -1,5 +1,0 @@
-domain_knowledge:
-  category: "research"
-  agent: "energy-grid-load-forecaster"
-  ontology: "OpenGAP Core Ontology v1.0"
-  indexed_entities: 1024

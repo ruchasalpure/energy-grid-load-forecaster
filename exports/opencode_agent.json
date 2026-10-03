@@ -1,8 +1,0 @@
-{
-  "agent_id": "energy-grid-load-forecaster",
-  "protocol": "opencode/v1",
-  "capabilities": [
-    "autonomous",
-    "governed"
-  ]
-}
